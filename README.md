@@ -42,14 +42,14 @@ yolo segment predict model=yolov8n-seg.pt source='datasets/test/images/color_ima
 ------------------------
 
 #### Confusion Matrix
-![confusion_matrix](./train2/confusion_matrix.png)
+![confusion_matrix](https://github.com/user-attachments/assets/de77d170-4370-4891-9674-3fef293fd0a3)
 
 #### Train & Validation Loss and Precision
-![tran_val_loss](./train2/results.png)
+![results](https://github.com/user-attachments/assets/caf74985-5b09-428a-b3dd-c37995782cba)
 
 #### F1 Score
-![f1_score](./train2/BoxF1_curve.png)
+![BoxF1_curve](https://github.com/user-attachments/assets/30c8c722-3277-41b0-9f87-40a38e7b6993)
 
 #### Recall
-![recall](./train2/BoxR_curve.png)
+![BoxR_curve](https://github.com/user-attachments/assets/d72bd2e7-615e-49b4-b61a-e654109be99a)
 
